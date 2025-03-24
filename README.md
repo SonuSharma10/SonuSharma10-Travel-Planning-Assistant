@@ -2,6 +2,9 @@
 
 ## I have updated the working zip file, and thank you, UPTIQ AI, for the credits. 
 
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a186bf3e-2b86-42ae-9eba-ef925499fb33" />
+
+
 ### The current version works with a single input, but I plan to modify it so that the chat becomes more interactive. In the new version, the agent will ask Question 1, receive the user's response, then ask Question 2, and so on. After collecting all the responses, they will be combined and sent to the LLM to generate a well-structured and detailed plan in a more interactive manner.
 
 
