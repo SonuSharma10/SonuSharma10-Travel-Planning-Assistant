@@ -1,12 +1,23 @@
 # Travel-Planning-Assistant
 
-## I have updated the working zip file, and thank you, UPTIQ AI, for the credits. 
+### I have updated the working zip file, and thank you, UPTIQ AI, for the credits. 💙 
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/a186bf3e-2b86-42ae-9eba-ef925499fb33" />
+## My AI Agent Travel-Planning-Assistant Overview 
+![image](https://github.com/user-attachments/assets/daa4bcf1-b920-4b6b-a3e1-c3bb480ae07e)
+
+## The Travel-Planning-Assistant offers two powerful intents to suit your travel planning needs:
+
+### 1) Ask Travel Preference:  A fast, one-prompt response for casual queries with 5 key details.
+### 2) Ask in Detail Planner: A detailed, interactive experience with 7 questions asked one-by-one for a comprehensive plan.
+
+<br/>
+
+## Intent 1 : Ask Travel Preference - Straightforward Response
+![screencapture-console-uptiq-ai-ai-agents-7ac904b5-e11b-4931-bdf2-5f4916458e29-sub-agents-2025-03-24-22_33_01](https://github.com/user-attachments/assets/3e9d6713-1dfd-4a0a-afd8-1bb3975a1bf8)
 
 
-### The current version works with a single input, but I plan to modify it so that the chat becomes more interactive. In the new version, the agent will ask Question 1, receive the user's response, then ask Question 2, and so on. After collecting all the responses, they will be combined and sent to the LLM to generate a well-structured and detailed plan in a more interactive manner.
+## Intent 2 : Ask in Detail Planner - More Interactive Response
+
+![screencapture-console-uptiq-ai-ai-agents-7ac904b5-e11b-4931-bdf2-5f4916458e29-workflows-2025-03-25-01_18_16 (1)](https://github.com/user-attachments/assets/2044b93c-7565-4e61-b1c0-a04e075a601c)
 
 
-## IDEA 
-![image](https://github.com/user-attachments/assets/44decfdb-64a1-472d-8558-47ce2155bd28)
